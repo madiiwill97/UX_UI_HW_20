@@ -32,12 +32,21 @@
 .cardContainer {
   padding: 2%;
   background-color: #0062b3;
+  border-radius: 4px;
 }
 footer {
   text-align: center;
   background-color: #0062b3;
   color: white;
 }
-.lofi {
-  float: right;
+.loFi {
+  float: inline-end;
+  height: 700px;
+  width: 300px;
+  border: solid 2px #0062b3;
+  border-radius: 4px;
+  padding: 5px;
+}
+#highFidelity {
+  text-align: center;
 }
