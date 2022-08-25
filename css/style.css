@@ -1,0 +1,43 @@
+* {
+  background-color: whitesmoke;
+  scroll-behavior: smooth;
+}
+
+.jumbotron {
+  background-color: #0062b3;
+}
+
+.container {
+  padding: 10%;
+  text-align: center;
+  background-color: #0062b3;
+  color: white;
+}
+.lead {
+  background-color: #0062b3;
+}
+.display-4 {
+  background-color: #0062b3;
+}
+.dropdown {
+  background-color: #0062b3;
+}
+
+.row {
+  padding: 10%;
+  justify-content: space-between;
+  border-bottom: solid 3px #0062b3;
+}
+
+.cardContainer {
+  padding: 2%;
+  background-color: #0062b3;
+}
+footer {
+  text-align: center;
+  background-color: #0062b3;
+  color: white;
+}
+.lofi {
+  float: right;
+}
